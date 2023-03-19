@@ -1,2 +1,1 @@
-# FirstRemoteRepo
-Learning
+# Paragon z warzywniaka
